@@ -3,7 +3,7 @@
 I'm **Hugo**, an iOS Developer originally from **Brazil** 🇧🇷, with professional experience working in  
 **Portugal** 🇵🇹, **Sweden** 🇸🇪, and currently based in **Malta** 🇲🇹.  
 
-I enjoy building clean, scalable, and user-friendly apps using **Swift** and **SwiftUI**, with a strong interest in **architecture**, **modularization**, and **developer experience**.
+I enjoy building clean, scalable, and user-friendly apps using **Swift** and **SwiftUI**, with a strong interest in **architecture**, **modularization**
 
 ---
 
