@@ -19,13 +19,13 @@ An app built with **Swift 5**, **SwiftUI**, **Combine**, **SPM**, and **VIPER**.
 
 ---
 
-### [SPM Modular SpaceX](https://github.com/Hugo-Coutinho/SPM-Modular-SpaceX)  
-A modular app using **Swift 5**, **UIKit**, **VIPER**, and **SPM**, designed with **SOLID principles** for clean, testable, and scalable iOS architecture.  
+### [Personal Financial Health](https://github.com/Hugo-Coutinho/Personal-Financial-Health)  
+A finance app built with **Swift 5**, **CoreData**, **VIPER**, and **AwesomeStackView**. Helps users track spending, manage budgets, and maintain financial balance.  
 
 ---
 
-### [Personal Financial Health](https://github.com/Hugo-Coutinho/Personal-Financial-Health)  
-A finance app built with **Swift 5**, **CoreData**, **VIPER**, and **AwesomeStackView**. Helps users track spending, manage budgets, and maintain financial balance.  
+### [AwesomeStackView](https://github.com/Hugo-Coutinho/AwesomeStackView)  
+A lightweight **Swift framework** that simplifies building static content with **UIStackView**, reducing boilerplate and speeding up UIKit layout development.  
 
 ---
 
