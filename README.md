@@ -29,11 +29,6 @@ A finance app built with **Swift 5**, **CoreData**, **VIPER**, and **AwesomeStac
 
 ---
 
-### [AwesomeStackView](https://github.com/Hugo-Coutinho/AwesomeStackView)  
-A lightweight **Swift framework** that simplifies building static content with **UIStackView**, reducing boilerplate and speeding up UIKit layout development.  
-
----
-
 ## 📝 Featured Articles
 I maintain a blog as a personal space to annotate my learning and improve my tech skills. Here are some of my highlighted posts:
 
@@ -41,8 +36,7 @@ I maintain a blog as a personal space to annotate my learning and improve my tec
 - [**Avoiding Retain Cycles with Unit Tests**](https://bloghugocoutinho.wordpress.com/2021/12/31/avoiding-retain-cycle-with-unit-testing/) – Using tests to ensure safe memory management  
 - [**Encapsulation Against External Factors**](https://bloghugocoutinho.wordpress.com/2024/02/22/protecting-my-app-from-external-factors/) – Protecting apps from unexpected influences
 - [**Generics, Opaque and Boxed Types**](https://bloghugocoutinho.wordpress.com/2025/09/20/generics-opaque-and-boxed-types/) – Exploring the roles of generics, `some`/`any` opaque types, 
-- [**Measuring App Performance**](https://bloghugocoutinho.wordpress.com/2022/08/04/xcode-instruments/) – With Xcode Instruments  
-and type erasure (boxed types)
+- [**Measuring App Performance**](https://bloghugocoutinho.wordpress.com/2022/08/04/xcode-instruments/) – With Xcode Instruments and type erasure (boxed types)
 
 ---
 
