@@ -35,6 +35,7 @@ A lightweight **Swift framework** that simplifies building static content with *
 ---
 
 ## 📝 Featured Articles
+I maintain a blog as a personal space to annotate my learning and improve my tech skills. Here are some of my highlighted posts:
 
 - [**How I Used Clean Architecture**](https://bloghugocoutinho.wordpress.com/2021/12/31/spacex-vipe-and-clean-architecture-with-diagrams/) – Personal project focusing on SOLID principles and clean architecture  
 - [**Avoiding Retain Cycles with Unit Tests**](https://bloghugocoutinho.wordpress.com/2021/12/31/avoiding-retain-cycle-with-unit-testing/) – Using tests to ensure safe memory management  
